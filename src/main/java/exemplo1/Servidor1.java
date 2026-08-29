@@ -1,9 +1,9 @@
-package org.example;
+package exemplo1;
 
 import java.io.IOException;
 import java.net.ServerSocket;
 
-public class Servidor {
+public class Servidor1 {
     public static void main(String[] args) {
 
         try {
